@@ -1,0 +1,5 @@
+Roll,Name,CourseCode,CourseName,Credit,Lab-Insem-Marks,Lab-Endsem-Marks,Lab-Result,Theory-Insem-Marks,Theory-Endsem-Marks,Theory-Result,Final-Result
+34,Sachin Doley,CSE-402,Operating Systems,3,22,54,PASS,24,50,PASS,PASS
+,,CSE-403,Object Oriented Programming,3,23,56,PASS,25,52,PASS,PASS
+17,Jukta Goyari,CSE-402,Operating Systems,3,21,57,PASS,23,55,PASS,PASS
+,,CSE-403,Object Oriented Programming,3,22,54,PASS,25,50,PASS,PASS
